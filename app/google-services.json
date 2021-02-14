@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130004083776",
+    "project_id": "vwatch-fad70",
+    "storage_bucket": "vwatch-fad70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130004083776:android:b18a7a89908200f9e92ba5",
+        "android_client_info": {
+          "package_name": "com.example.vwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130004083776-04dog34obpcqeo80nup6qvtj8p3a9ikj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvvWRLeQNGV-nbXHi4psNbKq4MtLMB1Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130004083776-04dog34obpcqeo80nup6qvtj8p3a9ikj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
